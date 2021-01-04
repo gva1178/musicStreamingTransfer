@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# I added the following:
+v1/backups/spotifyLibrarySongsBackup_1-4-21.txt
