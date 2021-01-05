@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # I added the following:
-v1/backups/spotifyLibrarySongsBackup_1-4-21.txt
+v1/backups/*
 .DS_Store
 #*/.DS_Store
